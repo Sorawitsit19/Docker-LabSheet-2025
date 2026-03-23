@@ -381,6 +381,7 @@ git version 2.43.0
 ```
 บันทึกรูปภาพผลการตรวจสอบ version
 ```
+![alt text](<images2/สกรีนช็อต 2026-03-23 115328.png>)
 ---
 
 #### 1.2 Clone Repository
